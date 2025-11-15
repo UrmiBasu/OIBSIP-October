@@ -42,4 +42,8 @@ Security Considerations
 nginx 1.19.0 is an older release; if this system is in production, you should review update requirements or security patches.  
 The presence of only one open port indicates tight perimeter restrictions, which is a good practice.  
 Assess the Firewall/AWS Security Group Configuration for the need to expose only required ports.   
-Full Raw Output Host is up (0.28s latency). Not shown: 999 filtered tcp ports (no-response) PORT   STATE SERVICE VERSION 80/tcp open  http    nginx 1.19.0  
+Full Raw Output Host is up (0.28s latency). Not shown: 999 filtered tcp ports (no-response) PORT   STATE SERVICE VERSION 80/tcp open  http    nginx 1.19.0 
+
+
+<img width="1920" height="797" alt="Image" src="https://github.com/user-attachments/assets/59912400-473b-40bf-bd61-98e5b0fa0b9b" />
+<img width="1920" height="729" alt="Image" src="https://github.com/user-attachments/assets/5cbc4494-38ab-4bff-8ebb-fd37d167afc2" />
