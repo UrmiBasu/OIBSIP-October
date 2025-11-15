@@ -1,6 +1,6 @@
 **Nmap Scan Results**
 
-This document summarizes and explains the results of an Nmap service scan of host \*\*44.228.249.3\*\* (an AWS EC2 instance).
+This document summarizes and explains the results of an Nmap service scan of host 44.228.249.3 (an AWS EC2 instance).
 
 **Scan Command**
 
